@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Update Issue Reproducer</string>
+    <string name="update_fragment_label">Update Fragment</string>
+    <string name="update_button_label">Start Update</string>
+
+    <string name="update_fragment_text">
+        This is a minimal reproducer for Bug 280783677.
+
+        Tap the "Start Update" button to launch update.
+
+        The code will open the an "Open file" dialog and lets you choose
+        a file there. Find the "updateissuereproducer_newer.apk" to check
+        if the issue can be reproduced.
+    </string>
+
+</resources>
